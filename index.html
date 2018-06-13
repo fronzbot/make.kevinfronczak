@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="header-bar">
+  <h2>Woodworking by</h2>
+  <h1>{{site.title}}</h1>
+  
+  <br/>
+  <hr>
+  <br/>
+</div>
+
+{% for project in site.projects %}
+
+{% if project.redirect %}
+<div class="project">
+    <div class="thumbnail">
+        <a href="{{ project.redirect }}" target="_blank">
+        {% if project.img %}
+        <img class="thumbnail" src="{{ project.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}
+        </a>
+    </div>
+</div>
+{% else %}
+
+<div class="project">
+    <div class=thumbnail">
+        <a href="{{ site.baseurl }}{{ project.url }}">
+        {% if project.img %}
+        <img class="thumbnail" src="{{ project.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}
+        </a>
+    </div>
+</div>
+
+{% endif %}
+{% endfor %}

@@ -1,0 +1,34 @@
+# Site settings
+title: Kevin Fronczak
+email: kfronczak@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Woodworking.
+baseurl:  # the subpath of your site, e.g. /blog/
+homeurl: https://kevinfronczak.com/
+url:  https://make.kevinfronczak.com/ # the base hostname & protocol for your site
+instagram_username: kevin_fronczak
+twitter_username: fronzbot
+youtube_username: kevinfronczak
+github_username:  fronzbot
+
+plugins:
+  - jekyll-paginate
+  - kramdown
+  - jekyll-assets
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+
+collections:
+  furniture:
+    output: true
+    permalink: /furniture/:path/
+  shopbuilds:
+    output: true
+    permalink: /shopbuilds/:path/
+
+  projects:
+    output: false
+    permalink: /projects/:path
