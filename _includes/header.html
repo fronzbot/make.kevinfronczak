@@ -1,20 +1,35 @@
 <header class="site-header">
-
-  <div class="wrapper">
+    <style>
+        #home-icon {
+            background-image: url('img/homeicon.png');
+            background-repeat: no-repeat;
+            width: 20px;
+            height: 20px;
+            background-size: contain;
+            display: inline-block;
+            vertical-align: middle;
+            padding-bottom: 5px;
+        }
+        #home-icon:hover {
+            background-image: url('img/homeicon_hover.png');
+            background-size: contain;   
+        }
+    </style>
+    <div class="wrapper">
 
     <nav class="site-nav">
 
       <div class="trigger">
-        <!-- {{ site.title }} instead of blog -->
-        <a class="page-link" href="https://kevinfronczak.com"/>Home</a>
-        <a class="page-link" href="{{site.url}}"/>Make</a>
-
+        <a class="page-link" href="{{site.url}}"/>Home</a>
         {% for page in site.pages %}
-          {% if page.title %}
+          {% if page.title and page.title != "Contact"%}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-
+        <a class="page-link" href="https://kevinfronczak.com/contact/">Contact</a>
+        <a class="page-link" href="https://kevinfronczak.com">
+            <div id="home-icon"></div>
+        </a>
       </div>
     </nav>
 
