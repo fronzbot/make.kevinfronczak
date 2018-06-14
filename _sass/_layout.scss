@@ -14,6 +14,21 @@ width:100%;
 z-index: 50;
 }
 
+.home-icon {
+background-image: url('/img/homeicon.png');
+background-repeat: no-repeat;
+background-size: contain;
+width: 20px;
+height: 20px;
+display: inline-block;
+vertical-align: middle;
+padding-bottom: 5px;
+}
+
+.home-icon:hover {
+background-image: url('/img/homeicon_hover.png');
+}
+
 .site-title {
 font-size: 20px;
 line-height: $nav-height;
