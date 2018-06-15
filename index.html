@@ -14,6 +14,10 @@ layout: default
 
 {% assign projects = site.furniture | concat: site.shopbuilds | sort: 'date' | reverse %}
 {% for project in projects %}
+
+{% if forloop.index > 9 %}
+    {% break %}
+{% endif %}
 <div class="post">
 {% if project.redirect %}
 <div class="project">
@@ -53,3 +57,10 @@ layout: default
 {% endif %}
 </div>
 {% endfor %}
+<div class="header-bar">
+    <br/>
+    <hr>
+    <br/>
+    <a href="/furniture"><h1>Furniture</h1></a>
+    <a href="/shopbuilds"><h1>Shopbuilds</h1></a>
+</div>
