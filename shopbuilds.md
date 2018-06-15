@@ -4,7 +4,8 @@ title: Shopbuilds
 permalink: /shopbuilds/
 ---
 
-{% for project in site.shopbuilds %}
+{% assign projects = site.shopbuilds | sort: 'date' | reverse %}
+{% for project in projects %}
 
 {% if project.redirect %}
 <div class="project">

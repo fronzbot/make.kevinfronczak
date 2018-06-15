@@ -12,7 +12,7 @@ layout: default
 </div>
 
 
-{% assign projects = site.furniture | concat: site.shopbuilds | sort: title %}
+{% assign projects = site.furniture | concat: site.shopbuilds | sort: 'date' | reverse %}
 {% for project in projects %}
 <div class="post">
 {% if project.redirect %}

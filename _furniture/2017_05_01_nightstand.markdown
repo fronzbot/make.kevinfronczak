@@ -3,6 +3,7 @@ layout: post
 title: Simple Nightstand
 description: Pine Nightstand I built for my wife
 img: /img/simple_nightstand/simple_nightstand_thumb.jpg
+date: 2017_05_01
 ---
 
 <div class="img_row">
