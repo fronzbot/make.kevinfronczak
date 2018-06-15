@@ -28,7 +28,7 @@ If you don't use the tool a lot and/or it doesn't make you more efficient, buyin
 <div class="img_row">
     <img class="col three" src="/img/bmw/bmw_profile.jpg" title="Empty Basic Mobile Workbench (Profile view)"/>
 </div>
-<div class="img_row">
+<div class="img_row_tall">
     <img class="col three" src="/img/bmw/bmw.jpg" title="Stocked up workbench"/>
 </div>
 
