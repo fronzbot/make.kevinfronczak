@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="header-bar">
-  <h2>Woodworking by</h2>
+  <h2>Engineer. Maker. Woodworker.</h2>
   <h1>{{site.title}}</h1>
   
   <br/>
@@ -11,8 +11,10 @@ layout: default
   <br/>
 </div>
 
-{% for project in site.projects %}
 
+{% assign projects = site.furniture | concat: site.shopbuilds | sort: title %}
+{% for project in projects %}
+<div class="post">
 {% if project.redirect %}
 <div class="project">
     <div class="thumbnail">
@@ -22,22 +24,32 @@ layout: default
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}
+        <span>
+            <h1>{{ project.title }}</h1>
+            <br/>
+            <p>{{ project.description }}</p>
+        </span>
         </a>
     </div>
 </div>
 {% else %}
 
-<div class="project">
-    <div class=thumbnail">
+<div class="project ">
+    <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
         <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}
+        <span>
+            <h1>{{ project.title }}</h1>
+            <br/>
+            <p>{{ project.description }}</p>
+        </span>
         </a>
     </div>
 </div>
-
 {% endif %}
+</div>
 {% endfor %}
