@@ -2,7 +2,7 @@
 layout: post
 title: Router Table
 description: Custom router table build
-img: /img/router_table/router_table.jpg
+img: /img/router_table/thumb.jpg
 date: 2018_05_19
 ---
 

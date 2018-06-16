@@ -2,7 +2,7 @@
 layout: post
 title: Parlor Bookcase
 description: Bookcase built as part of woodworking course
-img: /img/parlor_bookcase/bookcase.jpg
+img: /img/parlor_bookcase/thumb.jpg
 date: 2018_03_28
 ---
 

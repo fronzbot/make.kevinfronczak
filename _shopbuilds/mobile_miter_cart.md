@@ -2,7 +2,7 @@
 layout: post
 title: Mobile Miter Cart
 description: Custom mobile miter saw cart
-img: /img/miter_cart/miter_cart.jpg
+img: /img/miter_cart/thumb.jpg
 date: 2018_05_26
 ---
 
