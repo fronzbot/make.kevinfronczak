@@ -2,7 +2,7 @@
 layout: post
 title: Cube Bookcase 
 description: Cube Bookcase built for my daughter.
-img: /img/cube_bookcase/cube_bookcase_done.jpg
+img: /img/cube_bookcase/thumb.jpg
 date: 2017_07_02
 ---
 

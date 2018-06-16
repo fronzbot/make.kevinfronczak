@@ -2,7 +2,7 @@
 layout: post
 title: Paper Tray
 description: Paper tray built as part of woodworking course
-img: /img/paper_tray/paper_tray_staging.jpg
+img: /img/paper_tray/thumb.jpg
 date: 2018_02_05
 ---
 

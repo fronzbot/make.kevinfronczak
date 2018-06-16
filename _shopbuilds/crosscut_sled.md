@@ -2,7 +2,7 @@
 layout: post
 title: Crosscut Sled
 description: Table saw crosscut sled
-img: /img/crosscut_sled/sled_top.jpg
+img: /img/crosscut_sled/thumb.jpg
 date: 2018_05_06
 ---
 
