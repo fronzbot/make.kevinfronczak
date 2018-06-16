@@ -2,7 +2,7 @@
 layout: post
 title: Lumber Cart
 description: Simple mobile lumber storage cart
-img: /img/lumber_cart/lumber_cart.jpg
+img: /img/lumber_cart/thumb.jpg
 date: 2018_01_28
 ---
 

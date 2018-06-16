@@ -2,7 +2,7 @@
 layout: post
 title: Simple Picture Frames
 description: Picture frames built for gifts
-img: /img/simple_picture_frames/frame1.jpg
+img: /img/simple_picture_frames/thumb.jpg
 date: 2018_05_18
 ---
 

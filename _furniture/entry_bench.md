@@ -2,7 +2,7 @@
 layout: post
 title: Entryway Bench
 description: Bench built as part of woodworking course
-img: /img/entry_bench/bench_staged.jpg
+img: /img/entry_bench/thumb.jpg
 date: 2018_01_27
 ---
 

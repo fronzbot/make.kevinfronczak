@@ -2,7 +2,7 @@
 layout: post
 title: Basic Mobile Workbench
 description: Mobile workbench built for a Steve Ramsey course.
-img: /img/bmw/bmw_thumbnail.jpg
+img: /img/bmw/thumb.jpg
 date: 2018_01_14
 ---
 
