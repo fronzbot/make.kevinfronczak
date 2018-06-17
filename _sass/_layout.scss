@@ -184,16 +184,6 @@ display: block;
 font-size: 42px;
 }
 
-/** Poem formatting ********************************************/
-.poem-title {
-font-size: 24px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 16px;
-    }
-}
-
 
 /** 
  * Portfolio grid **********************************************************
@@ -210,7 +200,9 @@ clear: both;
 }
 .project {
 width: 33.33%;
-height: 250px;
+height: 30vmax;
+max-height: 250px;
+min-height: 120px;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
@@ -218,7 +210,9 @@ padding: 10px;
 }
 .thumbnail{
 width: 100%;
-height: 230px;
+height: 25vmax;
+max-height: 230px;
+min-height: 100px;
 overflow: hidden;
 }
 .thumbnail img{
@@ -238,13 +232,40 @@ top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.4);
+background: rgba(0,0,0,0.6);
 color: $grey-color-light;
-padding: 40px;
+padding: 12%;
 text-align: center;
+font-size: 75%;
 }
 .thumbnail a:hover span {
 display: block;
+}
+.project-links {
+width: 33.33%;
+height: 30vmax;
+max-height: 250px;
+min-height: 120px;
+float: left;
+vertical-align: middle;
+box-sizing: border-box;
+padding: 10px;
+}
+
+.more-links{
+width: 100%;
+height: 10vmax;
+font-size: fit-width;
+text-align: center;
+}
+.more-links a{
+float: center;
+position: relative;
+width: 100%;
+height: auto;
+}
+.more-links a span{
+text-align: center;
 }
 /** 
  * Portfolio pages **********************************************************
