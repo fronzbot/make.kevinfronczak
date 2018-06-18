@@ -21,7 +21,7 @@ The tray itself is built out of red oak and finished with a few coats of spray l
 <div class="img_row">
     <img class="col three" src="/img/paper_tray/paper_tray.jpg"/>
 </div>
-<div class="img_row_tall">
+<div class="img_row">
     <img class="col three" src="/img/paper_tray/paper_tray_staging.jpg"/>
 </div>
 

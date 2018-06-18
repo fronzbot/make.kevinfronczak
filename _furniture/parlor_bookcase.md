@@ -14,19 +14,19 @@ This was built as part of Steve Ramsey's [Weekend Woodworker](http://theweekendw
 
 The bookcase was built with a mix of pine (for trim) and birch plywood.
 
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase_frame.jpg"/>
 </div>
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase_top.jpg"/>
 </div>
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase_trim.jpg"/>
 </div>
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase_side_trim.jpg"/>
 </div>
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase_shelves.jpg"/>
 </div>
 
@@ -37,16 +37,16 @@ One mistake I made during the build process was when I was drilling the holes fo
 </div>
 
 The stain I used was one of my favorites: Minwax Early American.
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase_stain.jpg"/>
 </div>
 
 For finish, I used a glossy brushing lacquer.  I applied a few coats, and once the final coat was applied I began the buffing process.  First I sanded with 320 grit sandpaper.  After that I used 0000 steel wool with soapy water (acting as a lubricant) to bring the finish up to a satin.  The end result was awesome: a beautifully smooth finish.
 
-<div class="img_row_tall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase_top_finish.jpg"/>
 </div>
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/parlor_bookcase/bookcase.jpg"/>
 </div>
 
