@@ -274,24 +274,11 @@ text-align: center;
 background: $theme-color;
 }
 .img_row{
-height: $img_height;
+height: auto;
 width: 100%;
+max-height: 3*$img_height;
 overflow: hidden;
 box-sizing:border-box;
-padding: $img_spacing;
-}
-.img_row_tall{
-height: 1.5*$img_height;
-width: 100%;
-overflow: hidden;
-box-sizing:border-box;
-padding: $img_spacing;
-}
-.img_row_xtall{
-height: 3*$img_height;
-width: 100%;
-overflow: hidden;
-box-sizing: border-box;
 padding: $img_spacing;
 }
 .col{ 

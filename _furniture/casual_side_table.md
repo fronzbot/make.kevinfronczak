@@ -30,7 +30,7 @@ This table provided another first for me: using lacquer.  I used spray can lacqu
 The above image also shows a slight design change I made to the bottom shelf (compared to Steve's original plans).  Instead of insetting the slats for the shelf (so they are flush with the trim) I placed them on top.  I just thought it looked more...rustic?  Not sure how to describe the look, but regardless I liked it.
 
 Again, the finished product:
-<div class="img_row_tall">
+<div class="img_row">
     <img class="col three" src="/img/casual_side_table/side_table_staging.jpg"/>
 </div>
 
