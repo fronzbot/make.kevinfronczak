@@ -198,6 +198,51 @@ display: table;
 .clearfix:after {
 clear: both;
 }
+.thin-project {
+width: 100%;
+height: 12vmax;
+max-height: 125px;
+min-height: 75px;
+float: left;
+vertical-align: middle;
+box-sizing: border-box;
+padding: 5px;
+}
+.thin-thumbnail {
+width: 100%;
+height: 10vmax;
+max-height: 115px;
+min-height: 70px;
+overflow: hidden;
+}
+.thin-thumbnail img{
+object-position: 50% 40%;
+object-fit: cover;
+}
+.thin-thumbnail a{
+float: left;
+position: relative;
+width: 100%;
+height: auto;
+}
+.thin-thumbnail a span {
+display: none;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background: rgba(0,0,0,0.6);
+color: $grey-color-light;
+padding: 5%;
+text-align: center;
+font-size: 100%;
+}
+.thin-thumbnail a:hover span {
+display: block;
+}
+
+
 .project {
 width: 33.33%;
 height: 30vmax;
