@@ -49,7 +49,6 @@ collections:
   shopbuilds:
     output: true
     permalink: /shopbuilds/:path/
-
-  projects:
-    output: false
-    permalink: /projects/:path
+  plans:
+    output: true
+    permalink: /plans/:path/
