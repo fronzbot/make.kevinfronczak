@@ -10,7 +10,7 @@ For mother's day 2018 I decided to make a simple picture frame for my wife (espe
 
 The stain used was Minwax Special Walnut, and I finished it with spray lacquer that I buffed to a satin finished with 0000 steel wool and soapy water.
 
-<div class="img_row_xtall">
+<div class="img_row">
     <img class="col three" src="/img/simple_picture_frames/frame1.jpg"/>
 </div>
 

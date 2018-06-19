@@ -39,7 +39,7 @@ The table itself was built on a very simple rolling stand with a small drawer to
     <img class="col three" src="/img/router_table/router_table_shelf.jpg"/>
 </div>
 
-<div class="img_row_tall">
+<div class="img_row">
     <img class="col three" src="/img/router_table/router_table.jpg"/>
 </div>
 

@@ -16,13 +16,13 @@ The idea here is I wanted to be able to collapse the cart down for storage purpo
 
 On the wings, I added a measuring tape with adhesive back, so I could very quickly make rough cuts without busting out an actual measuring tape.
 
-<div class="img_row_tall">
+<div class="img_row">
     <img class="col three" src="/img/miter_cart/miter_cart_collapsed.jpg"/>
 </div>
 <div class="img_row">
     <img class="col three" src="/img/miter_cart/miter_wings.jpg"/>
 </div>
-<div class="img_row_tall">
+<div class="img_row">
     <img class="col three" src="/img/miter_cart/miter_cart.jpg"/>
 </div>
 

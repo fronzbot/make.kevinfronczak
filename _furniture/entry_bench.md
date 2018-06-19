@@ -28,7 +28,7 @@ Once the stain was cured, I applied the poly (around 3-4 coats).  In between eac
 
 Finished piece:
 
-<div class="img_row_tall">
+<div class="img_row">
     <img class="col three" src="/img/entry_bench/bench_staged.jpg"/>
 </div>
 
