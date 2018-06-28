@@ -15,11 +15,42 @@ layout: null
         {% for post in projects limit: 10 %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
+                <author>
+                    {% if post.author %}
+                        {{ post.author }}
+                    {% else %}
+                        {{ site.title }}
+                    {% endif %}
+                </author>
                 <description>{{ post.description | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ post.url | prepend: site.url }}</link>
                 <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
             </item>
         {% endfor %}
+        <item>
+            <title> Furniture </title>
+            <description> Collection of custom built furniture </description>
+            <link> {{ "/furniture" | prepend: site.url }} </link>
+            <guid isPermaLink="true">{{ "/furniture" | prepend: site.url }}</guid>
+        </item>
+        <item>
+            <title> Shopbuilds </title>
+            <description> Collection of custom built shop projects </description>
+            <link> {{ "/shopbuilds" | prepend: site.url }} </link>
+            <guid isPermaLink="true">{{ "/shopbuilds" | prepend: site.url }}</guid>
+        </item>
+        <item>
+            <title> Plans </title>
+            <description> Free woodworking plans for download </description>
+            <link> {{ "/plans" | prepend: site.url }} </link>
+            <guid isPermaLink="true">{{ "/plans" | prepend: site.url }} </guid>
+        </item>
+        <item>
+            <title> Contact </title>
+            <description> Contact information and social media links </description>
+            <link> {{ "/contact" | prepend: site.url }} </link>
+            <guid isPermaLink="true">{{ "/contact" | prepend: site.url }} </guid>
+        </item>
     </channel>
 </rss>
