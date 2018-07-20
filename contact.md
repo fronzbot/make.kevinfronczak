@@ -16,7 +16,7 @@ Use the contact form below to get in touch, or use the social media links (below
     <label for="_replyto">Email:</label>
     <input type="email" name="_replyto" id="_replyto" placeholder="Your email address"> <br/>
     <textarea name="message" placeholder="Type your message here." rows="5" cols="40" id="message"></textarea> <br/> 
-    <input type="hidden" name="_subject" value="[Make] Contact Form Submission">
+    <input type="hidden" name="_subject" value="[FWW] Contact Form Submission">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Send">
 </form>
