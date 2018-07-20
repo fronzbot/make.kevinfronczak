@@ -70,7 +70,7 @@ display: line;
     position: relative;
     font-size: 20px;
     display: block;
-    opacity: 0.75;
+    opacity: 0.85;
     width: 100%;
     text-align: center;
     padding-top: 25px;
@@ -242,7 +242,6 @@ font-size: 100%;
 display: block;
 }
 
-
 .project {
 width: 33.33%;
 height: 30vmax;
@@ -318,6 +317,17 @@ text-align: center;
 .blankbox{
 background: $theme-color;
 }
+
+.logo {
+height: auto;
+width: 10vmax;
+}
+
+.logo-small {
+height: auto;
+width: 5vmax;
+}
+
 .img_row{
 height: auto;
 width: 100%;

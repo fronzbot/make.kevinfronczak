@@ -4,8 +4,9 @@ email: kfronczak@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Adventures in woodworking and makin' stuff. 
 baseurl:  # the subpath of your site, e.g. /blog/
-homeurl: https://kevinfronczak.com/
-url:  https://make.kevinfronczak.com # the base hostname & protocol for your site
+homeurl: https://fronczakwoodworks.com/
+url:  https://fronczakwoodworks.com # the base hostname & protocol for your site
+logo: "/img/logo-full.png"
 instagram_username: kevin_fronczak
 twitter_username: fronzbot
 youtube_username: kevinfronczak
