@@ -69,7 +69,7 @@ line-height: $nav-height;
 .dropdown {
 position: relative;
 display: inline-block;
-line-height: 30px;
+line-height: 31px;
 }
 
 .dropdown-content {
@@ -286,20 +286,21 @@ width: 100%;
 height: auto;
 }
 .thin-thumbnail a span {
-display: none;
+display: block;
 position: absolute;
 top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.6);
 color: $grey-color-light;
 padding: 5%;
 text-align: center;
 font-size: 100%;
 }
+
 .thin-thumbnail a:hover span {
 display: block;
+background: rgba(0,0,0,0.4);
 }
 
 .project {
@@ -380,7 +381,7 @@ background: $theme-color;
 
 .logo {
 height: auto;
-width: 10vmax;
+width: 8vmax;
 }
 
 .logo-small {

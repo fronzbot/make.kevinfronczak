@@ -10,72 +10,26 @@ layout: default
   <br/>
 </div>
 
-
-{% assign projects = site.furniture | concat: site.shopbuilds | sort: 'date' | reverse %}
-{% for project in projects %}
-
-{% if forloop.index > 9 %}
-    {% break %}
-{% endif %}
-<div class="post">
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
-
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% endif %}
-</div>
-{% endfor %}
-<div class="project">
-    <div class="more-links">
-        <a href="/furniture">
+{% for page in site.collections %}
+{% assign name = page.label %}
+{% if name != "about" and name != "posts" %}
+{% assign url = page.url %}
+<div class="thin-project">    
+    <div class="thin-thumbnail">
+        <a href="{{ url | prepend: site.baseurl }}">
+            {% if page.image %}
+            <img class="thin-thumbnail" src="{{ page.image }}"/>
+            {% else %}
+            <div id="thumb-text" class="thin-thumbnail blankbox"></div>
+            {% endif %}
             <span>
-                <h1>More<br/>Furniture</h1>
+                {% capture titlecase %}
+                    {{ name | capitalize }}
+                {% endcapture %}
+                <h1>{{ titlecase }}</h1>
             </span>
         </a>
     </div>
 </div>
-<div class="project">
-    <div class="more-links">
-        <center>
-            <a href="/plans"><h1>Plans</h1></a>
-        </center>i
-    </div>
-</div>
-<div class="project">
-    <div class="more-links">
-        <center>
-            <a href="/shopbuilds"><h1>More<br/>Shopbuilds</h1></a>
-        </center>
-    </div>
-</div>
+{% endif %}
+{% endfor %}

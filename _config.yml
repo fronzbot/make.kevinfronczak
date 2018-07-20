@@ -48,12 +48,16 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+    url: /portfolio/
   shopbuilds:
     output: true
     permalink: /shopbuilds/:path/
+    url: /shopbuilds/
   plans:
     output: true
     permalink: /plans/:path/
+    url: /plans/
   about:
     output: true
     permalink: /:path/
+    url: /about/
