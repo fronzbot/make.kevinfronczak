@@ -7,7 +7,7 @@ readarray -t files < <(find img/* -name "thumb.jpg" -type f)
 
 ignorelist="/"
 sep=",/"
-EXTRA="img/logo-full.png,/img/logo-simple.png"
+EXTRA="img/logo-full.png,/img/logo-simple.png,/img/prof_pic.jpg"
 for file in ${files[*]}
 do
     ignorelist=$ignorelist$file$sep
