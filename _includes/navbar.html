@@ -1,0 +1,19 @@
+{% for page in site.collections %}
+{% assign name = page.label %}
+{% if name != "posts" %}
+{% assign url = page.url %}
+<span class="dropdown">
+    {% capture titlecase %}
+        {{ name | capitalize }}
+    {% endcapture %}
+    <a class="page-link" href="{{ url | prepend: site.baseurl }}">{{ titlecase }}</a>
+    <div class="dropdown-content">
+        {% assign projects = site.[name] | sort: 'date' | reverse %}
+        {% for project in projects limit: 5 %}
+            <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+            <hr/>
+        {% endfor %}
+    </div>
+</span>
+{% endif %}
+{% endfor %}

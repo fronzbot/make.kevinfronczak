@@ -1,0 +1,10 @@
+{% assign projects = site.page.title | sort: 'date' | reverse %}
+<div class="dropdown-content">
+    {% for project in projects %}
+        {% if forloop.index > 5 %}
+            {% break %}
+        {% endif %}
+        <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+        
+    {% endfor %}
+</div>

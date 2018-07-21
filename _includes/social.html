@@ -1,0 +1,15 @@
+<span class="contacticon right">
+    {%if site.instagram_username %}
+        {% include /icons/instagram.html username=site.instagram_username %}
+    {%endif%}
+    {% if site.youtube_username %}
+        {% include /icons/youtube.html username=site.youtube_username %}
+    {%endif%}
+    {%if site.github_username %}
+        {% include /icons/github.html username=site.github_username %}
+    {% endif %}
+    {% if site.twitter_username %}
+        {% include /icons/twitter.html username=site.twitter_username %}
+    {% endif %}
+</span>
+

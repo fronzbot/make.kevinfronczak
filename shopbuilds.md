@@ -2,6 +2,7 @@
 layout: page
 title: Shopbuilds 
 permalink: /shopbuilds/
+navbar: true
 ---
 
 {% assign projects = site.shopbuilds | sort: 'date' | reverse %}
@@ -19,7 +20,6 @@ permalink: /shopbuilds/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
         </span>
         </a>
     </div>
@@ -37,7 +37,6 @@ permalink: /shopbuilds/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
         </span>
         </a>
     </div>

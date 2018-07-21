@@ -1,0 +1,44 @@
+/**
+ * Site footer  **********************************************************
+ */
+.site-footer {
+border-top: 1px solid $grey-color-dark;
+font-size: 14px;
+background-color: $grey-color-dark;
+padding: 2px;
+color: white;
+position:fixed;
+left:0px;
+bottom:0px;
+height:50px;
+width:100%;
+}
+
+.footer-text a{
+color: darken($grey-color-light, 10%);
+}
+
+.footer-text a:hover{
+color: $theme-color;
+}
+
+.contacticon {
+font-size: 60px;
+display:block;
+margin: 10px;
+}
+
+.social {
+vertical-align: top;
+font-size: 40px;
+object-fit: cover;
+box-sizing:border-box;
+padding: 1px;
+margin-top: -5px;
+color: white;
+}
+
+.social:hover {
+color: $theme-color;
+}
+
