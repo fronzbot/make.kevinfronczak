@@ -9,7 +9,7 @@ date: 2017_07_02
 
 ![Cube Bookcase](/img/cube_bookcase/cube_bookcase.jpg "Cube bookcase"){: .col .three .center}
 
-I built this bookcase for my daughter who was actually born about two weeks after I completed it.  My wife wanted a bookcase in the nursery and wanted it to be white, as it would work well with the colors in the room.  So, I went with a very simple [Ana White](https://www.ana-white.com) design since I was still new to woodworking and the basic pocket-hole screw and plywood style was not intimidating.  Similar to my [Simple Nightstand](/portfolio/nightstand), my only power tool was a circular saw (well, and a drill) so my cuts were imperfect at best.
+I built this bookcase for my daughter who was actually born about two weeks after I completed it.  My wife wanted a bookcase in the nursery and wanted it to be white, as it would work well with the colors in the room.  So, I went with a very simple [Ana White](https://www.ana-white.com) design since I was still new to woodworking and the basic pocket-hole screw and plywood style was not intimidating.  Similar to my [Simple Nightstand](/portfolio/simple_nightstand), my only power tool was a circular saw (well, and a drill) so my cuts were imperfect at best.
 
 The frame and inserts were made out of 3/4" plywood, and framed with 1x2 pine boards.
 
