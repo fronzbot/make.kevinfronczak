@@ -20,7 +20,6 @@ navbar: true
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
         </span>
         </a>
     </div>
@@ -38,7 +37,6 @@ navbar: true
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
         </span>
         </a>
     </div>

@@ -84,21 +84,36 @@ width: 100%;
 height: auto;
 }
 .thumbnail a span {
-display: none;
+display: block;
 position: absolute;
-top: 0;
+top: 1;
+right: 0;
 left: 0;
 bottom: 0;
-right: 0;
-background: rgba(0,0,0,0.6);
-color: $grey-color-light;
-padding: 12%;
+padding: 10%;
+background: $grey-color-dark;
+opacity: 0.75;
+color: white;
 text-align: center;
-font-size: 75%;
+font-size: 80%;
+    h1 {
+    margin-right: 20%;
+    }
+width: 100%;
+height: inherit;
 }
-.thumbnail a:hover span {
-display: block;
-}
+
+.thumbnail a:hover span{
+    position: absolute;
+    top: 1;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: inherit;
+    background: $theme-color;
+    padding: 10%;
+}   
+
 .project-links {
 width: 33.33%;
 height: 30vmax;
