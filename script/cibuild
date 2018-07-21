@@ -3,6 +3,17 @@ set -e
 if [[ $* == *--clean* ]]; then
   rm -rf ./_site
 fi
+readarray -t files < <(find img/* -name "thumb.jpg" -type f)
+
+ignorelist="/"
+sep=",/"
+EXTRA="img/logo-full.png,/img/logo-simple.png"
+for file in ${files[*]}
+do
+    ignorelist=$ignorelist$file$sep
+done
+
+ignorelist=$ignorelist$EXTRA
 
 bundle exec jekyll build -d _site --future
-bundle exec htmlproofer ./_site --disable-external --check-html --file-ignore ./_site/google2600d5f104e52ac8.html --assume-extension --alt-ignore /img/logo-full.png,/img/logo-simple.png --enforce-https 
+bundle exec htmlproofer ./_site --disable-external --check-html --file-ignore ./_site/google2600d5f104e52ac8.html --alt-ignore $ignorelist 
