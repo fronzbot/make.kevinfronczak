@@ -17,7 +17,7 @@ Now, what does this have to do with woodworking?  Well...not much, really.  Wood
 
 **Why**
 
-I was first exposed to woodworking as a child.  Both my grandfather and father would build things, allowing me to "supervise" or, occasionally, even help out!  Over time, other activities took over my dad's life and I lost some interest in the hobby, turning my attention to other things.  Time passed, and eventually my wife was pregnant with our first child and my first instinct was that I wanted to build something for her [which you can see here!](/portfolio/cube_bookcase).  From there, I was re-addicted to the hobby, and started learning a lot of skills with the help of some awesome youtubers such as [Steve Ramsey](https://woodworking.formeremortals.net), [Marc Spagnuolo](https://thewoodwhisperer.com), [Jay Bates](https://jayscustomcreations.com), [Paul Sellers](https://paulsellers.com), and a bunch of others.
+I was first exposed to woodworking as a child.  Both my grandfather and father would build things, allowing me to "supervise" or, occasionally, even help out!  Over time, other activities monopolized my free-time and I lost some interest in the hobby.  Time passed, and eventually my wife was pregnant with our first child and my first instinct was that I wanted to build something for her [which you can see here!](/portfolio/cube_bookcase).  From there, I was re-addicted to the hobby, and started learning a lot of skills with the help of some awesome youtubers such as [Steve Ramsey](https://woodworking.formeremortals.net), [Marc Spagnuolo](https://thewoodwhisperer.com), [Jay Bates](https://jayscustomcreations.com), [Paul Sellers](https://paulsellers.com), and a bunch of others.
 
 **What**
 
