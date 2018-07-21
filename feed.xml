@@ -30,7 +30,9 @@ layout: null
                     {% endif %}
                 </author>
                 <description>{{ post.description | xml_escape }}</description>
+                {% if post.date %}
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+                {% endif %}
                 <link>{{ post.url | prepend: site.url }}</link>
                 <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
             </item>
