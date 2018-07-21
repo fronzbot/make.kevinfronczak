@@ -10,7 +10,7 @@ date: 2018_02_24
     <img class="col three" src="/img/casual_side_table/side_table_staging.jpg"/>
 </div>
 
-The second furniture piece I built as part of Steve Ramsey's [Weekend Woodworker](http://theweekendwoodworker.com) course was this side table.  The original design was a bit different, with a higher shelf and mitered edges for the top slats.  I wanted to modify it to better fit with furniture in our house, as my wife and I wanted to use this as a side table in our living room.
+The second furniture piece I built as part of Steve Ramsey's [Weekend Woodworker](https://theweekendwoodworker.com) course was this side table.  The original design was a bit different, with a higher shelf and mitered edges for the top slats.  I wanted to modify it to better fit with furniture in our house, as my wife and I wanted to use this as a side table in our living room.
 
 This project marked the first time I used Minwax's Early American stain on a project.  Up to this point, my wife was very hesitant about lighter stains, claiming she hated the look.  I decided to try and change her mind by using this stain and I succeeded.  This color is definitely my favorite stain to use if I'm working with pine.
 

@@ -11,7 +11,7 @@ date: 2017_05_01
 </div>
 
 
-This was the first real piece of furniture I've made.  The plans were a slighlty modified version of [these](http://www.ana-white.com/2011/01/farmhouse-bedside-table) from [Ana White](http://www.ana-white.com), which means cheap lumber and pocket holes.  For my first project, this was perfect as it was obviously a learning experience and getting hung up on advanced joinery wasn't something I really needed to concern myself with.  The design was "wife-approved" but one major flaw is that nothing in this design accounts for wood movement.  Seasonal changes in humidity will cause the wood to warp and can destabilize the whole thing.  I'll show an example of this at the end.
+This was the first real piece of furniture I've made.  The plans were a slighlty modified version of [these](https://www.ana-white.com/2011/01/farmhouse-bedside-table) from [Ana White](https://www.ana-white.com), which means cheap lumber and pocket holes.  For my first project, this was perfect as it was obviously a learning experience and getting hung up on advanced joinery wasn't something I really needed to concern myself with.  The design was "wife-approved" but one major flaw is that nothing in this design accounts for wood movement.  Seasonal changes in humidity will cause the wood to warp and can destabilize the whole thing.  I'll show an example of this at the end.
 
 
 Again, the frame is held together with glue and pocket-hole screws, but this meant it was very easy and quick to assemble.  At this point, my only realy tool to use was a circular saw, so my cuts weren't perfect and certainly not square.

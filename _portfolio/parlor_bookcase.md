@@ -10,7 +10,7 @@ date: 2018_03_28
     <img class="col three" src="/img/parlor_bookcase/bookcase.jpg"/>
 </div>
 
-This was built as part of Steve Ramsey's [Weekend Woodworker](http://theweekendwoodworker.com) course.  This project caused me to cave and finally buy a table saw because ripping boards with my circular saw was just slowing me down.  This plays into my philosophy of only buying what you *need* and not immediately splurging for the most expensive tools you can find.  My circular saw reliance was causing me to be inefficient, and a table saw would immediately fix this inefficieny.  And boy do I wish I bought one sooner.
+This was built as part of Steve Ramsey's [Weekend Woodworker](https://theweekendwoodworker.com) course.  This project caused me to cave and finally buy a table saw because ripping boards with my circular saw was just slowing me down.  This plays into my philosophy of only buying what you *need* and not immediately splurging for the most expensive tools you can find.  My circular saw reliance was causing me to be inefficient, and a table saw would immediately fix this inefficieny.  And boy do I wish I bought one sooner.
 
 The bookcase was built with a mix of pine (for trim) and birch plywood.
 

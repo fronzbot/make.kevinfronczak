@@ -10,7 +10,7 @@ date: 2018_02_05
     <img class="col three" src="/img/paper_tray/paper_tray_staging.jpg"/>
 </div>
 
-As part of Steve Ramsey's [Weekend Woodworker](http://theweekendwoodworker.com) course, I built this *FANCY* paper tray.  Really, the intent was to build skills making rabbet joints and weird angled edges.  However, I had yet to purchase a table saw, so the rabbets I made with my plunge router and a temporary jig I installed onto my [workbench](/shopbuilds/bmw).
+As part of Steve Ramsey's [Weekend Woodworker](https://theweekendwoodworker.com) course, I built this *FANCY* paper tray.  Really, the intent was to build skills making rabbet joints and weird angled edges.  However, I had yet to purchase a table saw, so the rabbets I made with my plunge router and a temporary jig I installed onto my [workbench](/shopbuilds/bmw).
 
 <div class="img_row">
     <img class="col three" src="/img/paper_tray/router_jig.jpg"/>

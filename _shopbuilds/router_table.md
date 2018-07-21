@@ -10,7 +10,7 @@ date: 2018_05_19
     <img class="col three" src="/img/router_table/router_table.jpg"/>
 </div>
 
-I had a really old trim router table from my dad that was starting to become annoying to use.  Simple roundover and chamfer bits just would not fit, so I was limited to straight bits only which was frustrating.  So I decided to build my own router table, with a fence inspired by [Steve Ramsey](http://woodworking.formeremortals.net).
+I had a really old trim router table from my dad that was starting to become annoying to use.  Simple roundover and chamfer bits just would not fit, so I was limited to straight bits only which was frustrating.  So I decided to build my own router table, with a fence inspired by [Steve Ramsey](https://woodworking.formeremortals.net).
 
 The construction was pretty simple.  I laminated a 1/2" MDF board to a 1/4" sheet of whiteboard... board.  I wanted to use melamine, but my local home center didn't have any sheets (that I could find at least).  Anyways, this laminated set of boards served as my router table top as well as my split fence.  I used my router to carve out a channel for the t-track in the fence, and the miter track in the table.
 

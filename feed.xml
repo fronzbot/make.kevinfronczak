@@ -11,8 +11,15 @@ layout: null
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
-        {% assign projects = site.furniture | concat: site.shopbuilds | sort: 'date' | reverse %}
-        {% for post in projects limit: 10 %}
+        {% assign posts = '' | split: '' %}
+        {% for collection in site.collections %}
+            {% assign name = collection.label %}
+            {% assign page = site[name] %}
+            {% assign posts = posts | concat: page %}
+        {% endfor %}
+        {% assign posts = posts | sort: 'date' | reverse %}
+        {% assign posts = posts | concat: site.collections %}
+        {% for post in posts %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <author>
@@ -28,29 +35,5 @@ layout: null
                 <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
             </item>
         {% endfor %}
-        <item>
-            <title> Furniture </title>
-            <description> Collection of custom built furniture </description>
-            <link> {{ "/furniture" | prepend: site.url }} </link>
-            <guid isPermaLink="true">{{ "/furniture" | prepend: site.url }}</guid>
-        </item>
-        <item>
-            <title> Shopbuilds </title>
-            <description> Collection of custom built shop projects </description>
-            <link> {{ "/shopbuilds" | prepend: site.url }} </link>
-            <guid isPermaLink="true">{{ "/shopbuilds" | prepend: site.url }}</guid>
-        </item>
-        <item>
-            <title> Plans </title>
-            <description> Free woodworking plans for download </description>
-            <link> {{ "/plans" | prepend: site.url }} </link>
-            <guid isPermaLink="true">{{ "/plans" | prepend: site.url }} </guid>
-        </item>
-        <item>
-            <title> Contact </title>
-            <description> Contact information and social media links </description>
-            <link> {{ "/contact" | prepend: site.url }} </link>
-            <guid isPermaLink="true">{{ "/contact" | prepend: site.url }} </guid>
-        </item>
     </channel>
 </rss>

@@ -10,7 +10,7 @@ date: 2018_01_27
     <img class="col three" src="/img/entry_bench/bench_staged.jpg"/>
 </div>
 
-This bench was the first piece of furniture I built as part of Steve Ramsey's [Weekend Woodworker](http://theweekendwoodworker.com) course.  In fact, it's the primary reason I signed up for the course because my wife really wanted an entry way bench and we both liked the design.  Plus, once I saw some of the other projects in the course I started to mentally place them in areas around my house so I was really looking forward to making all (or most) of the pieces.
+This bench was the first piece of furniture I built as part of Steve Ramsey's [Weekend Woodworker](https://theweekendwoodworker.com) course.  In fact, it's the primary reason I signed up for the course because my wife really wanted an entry way bench and we both liked the design.  Plus, once I saw some of the other projects in the course I started to mentally place them in areas around my house so I was really looking forward to making all (or most) of the pieces.
 
 I made all of the cuts on my miter saw (which I purchased a few weeks prior to this build) and that helped make the initial build process go by pretty quickly.  I chamfered the feet to make the legs look less wonky when sitting on the ground (a perfectly square leg just looks weird).  The stain I use was Minwax Red Chesnut, and I really liked the look of it (i wasn't too sure how it would turn out).
 
