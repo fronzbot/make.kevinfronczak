@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="{{ site.logo}}">
 
 <br/>
 Use the contact form below to get in touch, or use the social media links (below the contact form)! 

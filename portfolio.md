@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Furniture 
-permalink: /furniture/
+title: Portfolio 
+permalink: /portfolio/
+navbar: true
 ---
 
-{% assign projects = site.furniture | sort: 'date' | reverse %}
+{% assign projects = site.portfolio | sort: 'date' | reverse %}
 {% for project in projects %}
 
 {% if project.redirect %}
@@ -19,7 +20,6 @@ permalink: /furniture/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
         </span>
         </a>
     </div>
@@ -37,7 +37,6 @@ permalink: /furniture/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
         </span>
         </a>
     </div>
