@@ -31,8 +31,8 @@ The router was just screwed directly to the table.  I can still remove the route
 The table itself was built on a very simple rolling stand with a small drawer to hold router bits.  As an after thought, I added a simple, more easily accessible, way of storing router bits, inspired by an instagram post by [Marc Spagnuolo](https://instagram.com/woodwhisperer).  Basically, I just drilled 1/4" holes in a block of wood and glued that piece to my drawer.  Makes bit selection a breeze.
 
 <div class="img_row">
-<video class="col three" controls>
-    <source src="/img/router_table/router_storage.mp4" type="videos/mp4" />
+<video class="col three" controls autoplay="autoplay" loop="loop" muted>
+    <source src="/img/router_table/router_storage.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
 </div>
