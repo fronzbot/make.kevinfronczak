@@ -17,7 +17,6 @@ plugins:
   - jekyll-paginate
   - kramdown
   - jekyll-assets
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
