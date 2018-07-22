@@ -25,7 +25,14 @@ One additional touch I added was to heat transfer a print to personal the piece 
 ![Stained bench](/img/harmony_bench/stained.jpg "Stained bench"){: .col .three .center}
 After staining the bench, we can see the issue caused by too much heat with the toner transfer: the slight burning is highlighted by the stain.  Now, I could have avoided this by using a dye-stain rather than a pigment-based stain.  Dye stains will tend to color the wood evenly, whereas the pigmented stains highlight differences in the wood.  The Early American stain is a pigment-based stain, so unfortunately I boxed myself into a corner here.  You know how people tell you to test on a piece of scrap first... yeah, you should do that.  Regardless, it's a minor imperfection, but a frustrating one for sure.
 
+<div class="img_row">
+<video class="col half right" controls muted autoplay="autoplay" loop="loop">
+    <source src="/img/harmony_bench/buffing.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+
 The final step in finishing the bench was to knock the glossy finish down to a satin.  I do this in the same way that I buff lacquer: lightly sand with 320 grit to evenly knock the gloss down.  Then I use 0000 steel wool with soapy water as a lubricant to bring the finish back up to a satin.
+</div>
 
 ![Completed bench](/img/harmony_bench/bench.jpg "Completed bench"){: .col .three .center}
 
