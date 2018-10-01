@@ -1,4 +1,5 @@
-{% for page in site.collections %}
+{% assign collections = site.collections | sort: 'order' %}
+{% for page in collections %}
 {% assign name = page.label %}
 {% if name != "posts" %}
 {% assign url = page.url %}
@@ -8,11 +9,18 @@
     {% endcapture %}
     <a class="page-link" href="{{ url | prepend: site.baseurl }}">{{ titlecase }}</a>
     <div class="dropdown-content">
+        {% if name == "about" %}
+            <a href="{{ url | prepend: site.baseurl }}">About</a>
+            <hr/>
+        {% endif %}
         {% assign projects = site.[name] | sort: 'date' | reverse %}
         {% for project in projects limit: 5 %}
             <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
             <hr/>
         {% endfor %}
+        {% if page.mainnav %}
+            <a href="{{ url | prepend: site.baseurl }}">More...</a>
+        {% endif %}
     </div>
 </span>
 {% endif %}

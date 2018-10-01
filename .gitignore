@@ -2,3 +2,4 @@ _site/
 *_dev*
 *__pycache__*
 *sass-cache
+*.bak
