@@ -180,7 +180,9 @@ background: $theme-color;
 
 .logo {
 height: auto;
-width: 8vmax;
+width: 10vmax;
+min-width: 80px;
+max-width: 150px;
 }
 
 .logo-small {
