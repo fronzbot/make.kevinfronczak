@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 navbar: true
+order: 0
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">

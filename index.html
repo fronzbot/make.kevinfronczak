@@ -10,26 +10,13 @@ layout: default
   <br/>
 </div>
 
-{% for page in site.collections %}
-{% assign name = page.label %}
-{% if name != "about" and name != "posts" %}
-{% assign url = page.url %}
-<div class="thin-project">    
-    <div class="thin-thumbnail">
-        <a href="{{ url | prepend: site.baseurl }}">
-            {% if page.image %}
-            <img class="thin-thumbnail" src="{{ page.image }}"/>
-            {% else %}
-            <div class="thin-thumbnail blankbox"></div>
-            {% endif %}
-            <span>
-                {% capture titlecase %}
-                    {{ name | capitalize }}
-                {% endcapture %}
-                <h1>{{ titlecase }}</h1>
-            </span>
-        </a>
-    </div>
+{% assign collections = site.collections | sort: 'order' %}
+{% for page in collections %}
+{% if page.mainnav %}
+<div class="thin-project"> 
+    <a href="{{ page.url | prepend: site.baseurl }}">
+        <div class="main-nav-div {{ page.class }}"></div>
+    </a>
 </div>
 {% endif %}
 {% endfor %}

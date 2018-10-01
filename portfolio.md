@@ -3,6 +3,7 @@ layout: page
 title: Portfolio 
 permalink: /portfolio/
 navbar: true
+image: /img/portfolio.jpg
 ---
 
 {% assign projects = site.portfolio | sort: 'date' | reverse %}
