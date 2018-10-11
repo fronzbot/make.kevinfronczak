@@ -4,7 +4,7 @@ title: Greene and Greene Keepsake Box
 author: Kevin Fronczak
 description: Greene and Greene inspired keepsake box and wedding card holder.
 img: /img/keepsake_box/thumb.jpg
-date: 2018-10-09 22:32:00
+date: 2018-10-10 22:32:00
 ---
 
 ![Greene and Greene Keepsake Box](/img/keepsake_box/box_done.jpg "Greene and Greene Inspired Keepsake Box"){: .col .half .right}
