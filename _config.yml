@@ -9,8 +9,6 @@ homeurl: https://kevinfronczakdesigns.com/
 url:  https://kevinfronczakdesigns.com # the base hostname & protocol for your site
 logo: "/img/logos/logo-full.png"
 instagram_username: kevin_fronczak
-twitter_username: fronzbot
-youtube_username: kevinfronczak
 github_username:  fronzbot
 
 plugins:
