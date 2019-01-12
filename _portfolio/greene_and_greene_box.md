@@ -11,6 +11,22 @@ date: 2018-10-10 22:32:00
 
 I was asked to build a wedding card box for my sister's wedding, so I decided to overcomplicate it.  I have been fascinated by Greene and Greene style furniture and figured that it would be a really fun and challenging idea to design and build a wedding card box in that iconic style.  I have some [free plans](/plans/greene_and_greene_box) available for those who may be interested in tackling this project.
 
+If you'd like to read more about my build process, scroll on past the images!
+
+![Box Done](/img/keepsake_box/box_done.jpg "Finished box"){: .col .split .left}
+![Box Front](/img/keepsake_box/box_front.jpg "Front of box"){: .col .split .right}
+
+![Box Top](/img/keepsake_box/box_top.jpg "Top of box"){: .col .split .left}
+![Box Profile](/img/keepsake_box/box_profile.jpg "Profile of joinery"){: .col .split .right}
+
+![Box Open](/img/keepsake_box/box_open.jpg "Box opened"){: .col .split .left}
+![Box Hinges](/img/keepsake_box/box_hinges.jpg "Box hinges"){: .col .split .right}
+
+\\  
+
+## Build Process   
+------------------
+
 ### Milling Lumber
 ------------------
 
@@ -139,17 +155,3 @@ Ok, there technically was another step before finishing where I installed the hi
 Onto finishing.  I wasn't entirely sure how I wanted to finish this box.  I narrowed my choices down to Boiled Linseed Oil, Danish Oil (oil/varnish blend), and a Wiping Varnish.  In the image on the left, I have Danish oil on top, the wiping varnish in the middle, and the BLO on bottom.  It's very hard to see the difference in the photo and only marginally easier in person.  The wiping varnish was quite glossy and off-putting, so I nixed it right away.  The BLO gave a slightly flatter sheen than the Danish oil which I didn't like as much, so I decided on Danish Oil.  Quite frankly, I think the difference was marginal at best and that my final results would've looked quite similar in either case.
 
 To apply the finish, I just used some shop towels to apply a liberal amount on every surface.  After ten or fifteen minutes, I wiped off the excess and applied some more oil, again wiping off excess about fifteen minutes later.  I let the finish fully cure for almost a week because I had intended to finish it with wax...but I like how it looked without the wax so I just left it as is.  I gave the whole surface a very light sanding with 1500 grit sandpaper which create a very nice surface to touch.
-
-![Box Done](/img/keepsake_box/box_done.jpg "Finished box"){: .col .split .left}
-![Box Front](/img/keepsake_box/box_front.jpg "Front of box"){: .col .split .right}
-
-![Box Top](/img/keepsake_box/box_top.jpg "Top of box"){: .col .split .left}
-
-![Box Profile](/img/keepsake_box/box_profile.jpg "Profile of joinery"){: .col .split .right}
-
-![Box Open](/img/keepsake_box/box_open.jpg "Box opened"){: .col .split .left}
-
-![Box Hinges](/img/keepsake_box/box_hinges.jpg "Box hinges"){: .col .split .right}
-
-![Box Staged](/img/keepsake_box/box_staged.jpg "Box at wedding reception"){: .col .three .center}
-
